@@ -127,7 +127,7 @@ h3 {
 }
 
 .producto:hover {
-    background-color: var(--primario);
+    background-color: var(--negro);
 }
 
 .producto__informacion {
